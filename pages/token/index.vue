@@ -45,7 +45,7 @@
         </nav>
         <a
           class="help-link"
-          href="https://www.matataki.io/p/977"
+          href="https://www.matataki.cn/p/977"
           target="_blank"
         >什么是Fan票?</a> -->
         <div class="tokens-list-header">

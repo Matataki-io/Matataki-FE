@@ -20,7 +20,7 @@
           <a
             class="href"
             target="_blank"
-            href="https://www.matataki.io/p/781"
+            href="https://www.matataki.cn/p/781"
           >
             {{ $t('footer.point') }}
           </a>
@@ -62,7 +62,7 @@
           <a
             class="href"
             target="_blank"
-            href="http://www.matataki.io/p/616"
+            href="http://www.matataki.cn/p/616"
           >
             {{ $t('footer.billboard') }}
           </a>

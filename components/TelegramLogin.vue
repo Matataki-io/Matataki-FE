@@ -22,7 +22,7 @@
     <a
       v-show="status === 'completed'"
       class="telegram-toggleaccount"
-      href="https://www.matataki.io/p/2465"
+      href="https://www.matataki.cn/p/2465"
       target="_blank"
     >
       切换账号教程<svg-icon

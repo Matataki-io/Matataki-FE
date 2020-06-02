@@ -22,7 +22,7 @@
                 <a
                   class="help-link"
                   target="_blank"
-                  href="https://www.matataki.io/p/981"
+                  href="https://www.matataki.cn/p/981"
                 >如何交易Fan票?</a>
               </div>
             </Swap>
@@ -41,7 +41,7 @@
                 <a
                   class="help-link"
                   target="_blank"
-                  href="https://www.matataki.io/p/981"
+                  href="https://www.matataki.cn/p/981"
                 >如何交易Fan票?</a>
               </div>
             </Pool>

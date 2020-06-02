@@ -22,7 +22,7 @@
               <div>
                 <a
                   class="help-link"
-                  href="https://www.matataki.io/p/977"
+                  href="https://www.matataki.cn/p/977"
                   target="_blank"
                 >{{ $t('token.whatIsAFanTicket') }}</a>
               </div>

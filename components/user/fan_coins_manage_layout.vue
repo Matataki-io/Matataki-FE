@@ -29,7 +29,7 @@
         <a
           class="help-link"
           target="_blank"
-          href="https://www.matataki.io/p/979"
+          href="https://www.matataki.cn/p/979"
         >如何管理你的Fan票?</a>
       </div>
 

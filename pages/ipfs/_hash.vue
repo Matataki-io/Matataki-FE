@@ -19,12 +19,12 @@
         <span
           itemprops="provider"
           itemscope=""
-          itemtype="https://www.matataki.io/"
+          itemtype="https://www.matataki.cn/"
         >
           from <span itemprops="name">瞬MATATAKI</span>
           <meta
             itemprops="url"
-            content="https://www.matataki.io/"
+            content="https://www.matataki.cn/"
           >
         </span>
         <p itemprops="hash">

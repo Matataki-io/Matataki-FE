@@ -270,7 +270,7 @@
       <section class="screen6-content">
         <section class="screen6-block">
           <h4>1 个人通证 与 瞬Matataki 的关系？</h4>
-          <p>个人通证是一种由个人发行的数字货币，在 瞬Matataki 上也被叫做Fan票，主要被用于支付解锁与你相关的个人创作内容。同时还可以被用作为“粉丝令牌”，只要持有一定数量也可以解锁一些你的创作内容。瞬Matataki 是首个引用了 个人通证 作为支付手段和核心验证手段的 内容创作平台。未来 瞬Matataki 也会开发出更多基于个人通证的有趣使用场景。更多说明可以查看<a href="https://www.matataki.io/p/977?invite=9" target="_blank">这篇</a></p>
+          <p>个人通证是一种由个人发行的数字货币，在 瞬Matataki 上也被叫做Fan票，主要被用于支付解锁与你相关的个人创作内容。同时还可以被用作为“粉丝令牌”，只要持有一定数量也可以解锁一些你的创作内容。瞬Matataki 是首个引用了 个人通证 作为支付手段和核心验证手段的 内容创作平台。未来 瞬Matataki 也会开发出更多基于个人通证的有趣使用场景。更多说明可以查看<a href="https://www.matataki.cn/p/977?invite=9" target="_blank">这篇</a></p>
         </section>
 
         <section class="screen6-block">

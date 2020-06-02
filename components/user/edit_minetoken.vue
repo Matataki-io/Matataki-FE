@@ -14,13 +14,13 @@
       <a
         class="help-link"
         target="_blank"
-        href="https://www.matataki.io/p/977"
+        href="https://www.matataki.cn/p/977"
       >什么是Fan票?</a>
       &nbsp;
       <a
         class="help-link"
         target="_blank"
-        href="https://www.matataki.io/p/980"
+        href="https://www.matataki.cn/p/980"
       >如何发行Fan票?</a>
 
       <div
